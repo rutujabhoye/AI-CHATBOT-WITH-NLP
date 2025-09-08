@@ -96,3 +96,7 @@ Conclusion:
 This internship project successfully demonstrates how an AI chatbot can be built using NLP concepts and Python libraries. Although the chatbot is simple, it captures the essence of natural language processing by handling greetings, answering questions, and using reflections to improve conversation quality. It is reliable, error-free, and easy to use, making it an excellent example of applying NLP in real-world tasks.
 
 Through this project, I gained practical experience in NLP and chatbot development, which forms the basis for exploring more advanced AI-driven conversational systems in the future.
+
+#OUTPUT:
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/1059dabb-84c2-4e5a-b3f7-3c9e0be7264a" />
